@@ -9,7 +9,8 @@ def scan():
 
     print("[+] network scanning starting \n")
     for element in answered_list:
-        print("ip > " + element[1].pdst + "\t mac > " + element[1].hwsrc )
+        print(element)
+        print("\n")
     print("\n[+] Finished")
 
 
