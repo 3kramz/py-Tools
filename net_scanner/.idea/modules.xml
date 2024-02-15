@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/macchanger.iml" filepath="$PROJECT_DIR$/.idea/macchanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/net_scanner.iml" filepath="$PROJECT_DIR$/.idea/net_scanner.iml" />
     </modules>
   </component>
 </project>
